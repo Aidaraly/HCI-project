@@ -1,4 +1,4 @@
-# FinalProject
+# HCI Project
 I create this website to do shopping Online, you can buy the best gadgets. In near future I'll update my site and it would be better.
 Link for my Web Site https://aidaraly.github.io/FinalProject/ 
 #Screenshots of my Web Site,
